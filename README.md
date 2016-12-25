@@ -1,2 +1,2 @@
 # knapsack
-Comparision of 0/1 and fractional knapsack problem in Java
+Comparision of the knapsack problem (continuous and discrete) using a greedy algorithm in Java
